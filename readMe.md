@@ -38,6 +38,8 @@
 ## About The Project
 
 
+<a href="/app_screenshot.jpg" target="blank"><img align="center" src="/app_screenshot.jpg" alt="appsplash99  Blog"/>CLI App Screenshot</a>
+
 So You Think You Know JS? is a Fun Quiz made with JavaScript to test your knowledge of JavaScript.
 
 :smile: I made this Quiz is based on the exercises of a popular book - [" You Don't Know JS "](https://github.com/getify/You-Dont-Know-JS).
