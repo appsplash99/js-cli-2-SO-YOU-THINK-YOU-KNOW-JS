@@ -38,7 +38,7 @@
 ## About The Project
 
 
-<a href="/app_screenshot.jpg" target="blank"><img align="center" src="/app_screenshot.jpg" alt="appsplash99  Blog"/>CLI App Screenshot</a>
+<a href="/app_screenshot.jpg" target="blank"><img align="center" src="/app_screenshot.jpg" alt="appsplash99  Blog"/></a>
 
 So You Think You Know JS? is a Fun Quiz made with JavaScript to test your knowledge of JavaScript.
 
