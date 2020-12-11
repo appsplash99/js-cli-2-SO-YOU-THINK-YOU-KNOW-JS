@@ -9,9 +9,9 @@
 
   <p align="center">
     An awesome CLI App made with 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="20" height="20"/> and some :heart:.
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="20" height="20"/> and :heart:.
     <br />
-    <a href="https://repl.it/@ApurvChimralwar/markTwo-CLI-APP-So-You-Think-You-Know-JS-Quiz?​embed=1&output=1" target="blank">:rocket: Play It Here</a>
+    <a href="https://repl.it/@ApurvChimralwar/markTwo-CLI-APP-So-You-Think-You-Know-JS-Quiz?embed=1&output=1" target="blank">:rocket: Play It Here</a>
   </p>
 </p>
 
